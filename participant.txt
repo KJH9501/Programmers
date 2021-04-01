@@ -1,0 +1,4 @@
+https://programmers.co.kr/learn/courses/30/lessons/42576
+
+반복문 내에서 return값을 바로 뽑아내야 성립됨.
+반복문 밖에서 pTemp값을 호출 시 i(반복계수)가 다 돌기 때문에 마지막 i값으로 호출되기때문?
