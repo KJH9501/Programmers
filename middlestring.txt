@@ -1,0 +1,7 @@
+https://programmers.co.kr/learn/courses/30/lessons/12903
+
+join('') 사용하면 배열을 문자열로 변환할때 구분자(,) 없이 출력!
+
+정수형으로 강제형변환은 parseInt() 기억;
+
+비교적 쉬웠던 문제.
