@@ -1,0 +1,4 @@
+https://programmers.co.kr/learn/courses/30/lessons/12935#
+
+min값 찾아서 indexOf활용해서 위치찾음, 이후에 splice사용해 해당하는 배열 요소 삭제
+ arr.splice(arr.indexOf(min),1)

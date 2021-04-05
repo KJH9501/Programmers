@@ -1,0 +1,9 @@
+https://programmers.co.kr/learn/courses/30/lessons/12915
+
+sort() 함수 : 앞에 숫자가 크면 1을 반환하고 뒤에 숫자가 크면 -1를 반환, 같을 시 0 반환.
+
+function(a,b) < 0 이면 a를 b보다 작은 인덱스로 정렬 -1
+function(a,b) == 0 이면 a와 b의 순서를 바꾸지 않는다 0
+function(a,b) > 0 이면 b를 a보다 작은 인덱스로 정렬 1
+
+sort함수 원리 파악할것
