@@ -1,0 +1,5 @@
+https://programmers.co.kr/learn/courses/30/lessons/12948
+
+개쉬움
+
+대신 splice로 할수있는지 다시 한번 볼것 join 숙지
