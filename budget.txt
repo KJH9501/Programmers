@@ -1,0 +1,3 @@
+https://programmers.co.kr/learn/courses/30/lessons/12982
+
+최대한 많은 부서에 예산할당 <- 그냥 sort해버림

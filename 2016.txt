@@ -1,0 +1,5 @@
+https://programmers.co.kr/learn/courses/30/lessons/12901
+
+쉬운거같은데?
+
+month -1만 해주면 해결. getDay구해서 요일 배열 출력. 요일은 0부터시작함
