@@ -1,0 +1,3 @@
+https://programmers.co.kr/learn/courses/30/lessons/12931
+
+받아온 수를 배열화 시키고 각 자릿수for문 통해 더해주면 됨
